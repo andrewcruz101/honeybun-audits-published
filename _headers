@@ -1,0 +1,7 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+
+/audits/*.html
+  Cache-Control: public, max-age=300, must-revalidate
